@@ -4,7 +4,7 @@
 
 1. Clone Repository:
 ```
-$git clone 
+$git clone https://github.com/RyanHSL/Seq2SeqChatbot.git
 ```
 2. Set up the local Python 3.x environment in your local machine.
 ```
